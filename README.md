@@ -1,4 +1,4 @@
-## Hi there 👋 This is Harshitha, an ECE Graduate and got trained in VLSI-Physical Design
+## Hi there 👋 This is Harshitha
 This is my profile, and here's the content about my projects and other contributions. 
 <!--
 **tunikipatiharshitha/tunikipatiharshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
