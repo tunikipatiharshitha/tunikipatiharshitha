@@ -1,4 +1,4 @@
-## Hi there✨, I'm Tunikipati Harshitha
+# Hi there✨, I'm Tunikipati Harshitha
 This is my profile, and here's the content about my projects and other contributions. 
 <!--
 **tunikipatiharshitha/tunikipatiharshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
