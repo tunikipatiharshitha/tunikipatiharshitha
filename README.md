@@ -1,4 +1,4 @@
-## Hi there 👋 This is Harshitha
+## Hi there✨, I'm Tunikipati Harshitha
 This is my profile, and here's the content about my projects and other contributions. 
 <!--
 **tunikipatiharshitha/tunikipatiharshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,11 +6,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 ## About:
-I'm an ECE Graduate who passed out in 2024 with an overall aggregate of 85% and got trained in VLSI-Physical Design.
+I'm an ECE Graduate who graduated in 2024 with an overall aggregate of 85% and got trained in VLSI-Physical Design.
 ## Skills:
-* Physical Design: Synthesis, Floor-Planning, Placement, CTS, Routing.
-* EDA Tools: Design Compiler, Genus, Innovus.
-* Process Nodes: Worked with 28 and 45nm technologies.
+* **Physical Design:** Synthesis, Floor-Planning, Placement, CTS, Routing.
+* **EDA Tools:** Design Compiler, Genus, Innovus.
+* **Process Nodes:** Worked with 28 and 45nm technologies.
 * Possess a good understanding of digital electronics, CMOS principles, and Basics of Verilog & TCL scripting. Also good at communication, presentation, and leadership skills.
 ## Academic Projects:
 * [Encryption and Decryption using AES and RSA Algorithms](https://github.com/tunikipatiharshitha/Encryption-and-Decryption-using-AES-and-RSA-Algorithms?tab=readme-ov-file#encryption-and-decryption-using-aes-and-rsa-algorithms) : Developed a Hybrid Algorithm using two different Cryptographic Algorithm categories (AES and RSA), increasing the security in several real-time applications. The hybrid AES and RSA algorithm is developed using Verilog HDL and its simulated waveforms are verified.
