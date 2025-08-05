@@ -13,7 +13,7 @@ I'm an ECE Graduate who graduated in 2024 with an overall aggregate of 85% and g
 * **Process Nodes:** Worked with 28 and 45nm technologies.
 * Possess a good understanding of digital electronics, CMOS principles, and Basics of Verilog & TCL scripting. Also good at communication, presentation, and leadership skills.
 ## Certifications:
-* **Cadence- RTL to GDS-II Flow v6.0** from **Cadence** | [Certificate]([RTL TO GDS V.6 CERTIFICATE.pdf](https://github.com/user-attachments/files/21599129/RTL.TO.GDS.V.6.CERTIFICATE.pdf)
+* **Cadence- RTL to GDS-II Flow v6.0** from **Cadence** | [RTL TO GDS V.6 CERTIFICATE.pdf](https://github.com/user-attachments/files/21599129/RTL.TO.GDS.V.6.CERTIFICATE.pdf)
 * **VSD-Physical Design Flow** from **Udemy** | [Certificate](https://www.udemy.com/certificate/UC-7372f6ff-eb66-42a2-adc4-25a5722d00df/)
 * **STEP-certificate for english language proficiency** by **The Hindu Group**
   *Obtained language proficiency 8.5/12. | ([STEP-5331462836038070375-20230405155201.pdf](https://github.com/user-attachments/files/20590843/STEP-5331462836038070375-20230405155201.pdf)
